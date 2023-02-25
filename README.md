@@ -34,3 +34,7 @@ Height & width with percentage:
 ```
 <a href="https://youtube.com">Youtube</a>
 ```
+* - Open in a new tab:
+```
+<a href="https://youtube.com/btv" targe="_blank">Youtube/btv (Don't click plsss)</a>
+```
