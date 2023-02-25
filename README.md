@@ -30,3 +30,7 @@ Height & width with percentage:
 ```
 - Alternative:
     ```alt="Text to show"```
+* Anchor Tag:
+```
+<a href="https://youtube.com">Youtube</a>
+```
