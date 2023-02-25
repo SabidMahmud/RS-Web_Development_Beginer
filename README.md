@@ -17,8 +17,16 @@
     <li>like</li>
 </ol>
 ```
-* Image tag
+* Image tag 
+
 Syntax:
 ```
 <img src="image.address" width="size_X_px" height="size_y_px"/>
 ```
+
+Height & width with percentage:
+```
+<img src="image.address" width="size_X%" height="size_y%"/>
+```
+- Alternative:
+    ```alt="Text to show"```
